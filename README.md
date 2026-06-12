@@ -40,6 +40,3 @@ Coming soon — attack simulations and Wazuh dashboard alerts
 - [Wazuh Documentation](https://documentation.wazuh.com)
 - [SwiftOnSecurity Sysmon Config](https://github.com/SwiftOnSecurity/sysmon-config)
 - [MITRE ATT&CK](https://attack.mitre.org)
-- [Wazuh Documentation](https://documentation.wazuh.com)
-- [SwiftOnSecurity Sysmon Config](https://github.com/SwiftOnSecurity/sysmon-config)
-- [MITRE ATT&CK](https://attack.mitre.org)
